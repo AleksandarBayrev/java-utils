@@ -20,5 +20,5 @@ java {
 }
 
 jar {
-    archiveFileName = 'aleksandarbayrev.java.utils.jar'
+    archiveFileName = 'aleksandarbayrevjavautils.jar'
 }

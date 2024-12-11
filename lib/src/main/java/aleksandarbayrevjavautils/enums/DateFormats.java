@@ -1,4 +1,4 @@
-package aleksandarbayrev.java.utils.enums;
+package aleksandarbayrevjavautils.enums;
 
 public enum DateFormats {
     Standart("yyyy-MM-dd HH:mm:ss"), WithoutSeconds("yy-MM-dd HH:mm");

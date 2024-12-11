@@ -1,4 +1,4 @@
-package aleksandarbayrev.java.utils.configurations;
+package aleksandarbayrevjavautils.configurations;
 
 public class PostgreSQLManagerConfiguration {
     public final String Host;

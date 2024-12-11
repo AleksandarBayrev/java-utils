@@ -1,4 +1,4 @@
-package aleksandarbayrev.java.utils.interfaces;
+package aleksandarbayrevjavautils.interfaces;
 
 import java.text.ParseException;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package aleksandarbayrev.java.utils;
+package aleksandarbayrevjavautils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-import aleksandarbayrev.java.utils.interfaces.IDateParser;
+import aleksandarbayrevjavautils.interfaces.IDateParser;
 
 public class DateParser implements IDateParser {
     private final Map<String, SimpleDateFormat> _formatters = new HashMap<>();

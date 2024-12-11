@@ -1,8 +1,8 @@
-package aleksandarbayrev.java.utils.interfaces;
+package aleksandarbayrevjavautils.interfaces;
 
 import java.text.SimpleDateFormat;
 
-import aleksandarbayrev.java.utils.enums.DateFormats;
+import aleksandarbayrevjavautils.enums.DateFormats;
 
 public interface IDateFormatterProvider {
     SimpleDateFormat AddDateFormatProvider(DateFormats dateFormat);

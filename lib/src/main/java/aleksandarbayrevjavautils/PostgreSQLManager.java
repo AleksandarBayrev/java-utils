@@ -1,12 +1,12 @@
-package aleksandarbayrev.java.utils;
+package aleksandarbayrevjavautils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Properties;
 
-import aleksandarbayrev.java.utils.configurations.PostgreSQLManagerConfiguration;
-import aleksandarbayrev.java.utils.interfaces.IPostgreSQLManager;
+import aleksandarbayrevjavautils.configurations.PostgreSQLManagerConfiguration;
+import aleksandarbayrevjavautils.interfaces.IPostgreSQLManager;
 
 public class PostgreSQLManager implements IPostgreSQLManager {
     private final PostgreSQLManagerConfiguration _configuration;
