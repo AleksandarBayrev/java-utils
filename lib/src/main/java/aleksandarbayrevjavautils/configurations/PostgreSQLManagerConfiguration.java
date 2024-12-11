@@ -1,5 +1,8 @@
 package aleksandarbayrevjavautils.configurations;
 
+/**
+ * Configuration class for PostgreSQLManager
+ */
 public class PostgreSQLManagerConfiguration {
     public final String Host;
     public final String Username;

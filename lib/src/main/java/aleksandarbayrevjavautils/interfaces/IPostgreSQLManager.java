@@ -4,6 +4,12 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 public interface IPostgreSQLManager {
-    Connection getConnection() throws SQLException ;
+
+    /**
+     * Generates a new connection
+     * @returns java.sql.Connection
+     * @throws SQLException
+     */
+    Connection getConnection() throws SQLException;
 }
 
