@@ -4,5 +4,5 @@ import java.text.ParseException;
 import java.util.Date;
 
 public interface IDateParser {
-    Date getDate(String date) throws ParseException;
+    Date getDate(String format, String date) throws ParseException;
 }
